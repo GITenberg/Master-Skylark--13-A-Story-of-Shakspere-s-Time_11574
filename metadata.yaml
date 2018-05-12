@@ -1,5 +1,5 @@
 _repo: Master-Skylark--13-A-Story-of-Shakspere-s-Time_11574
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Birch, Reginald Bathurst
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1943
     gutenberg_agent_id: '26446'
     url: http://www.gutenberg.org/2009/agents/26446
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bennett, John
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '4032'
     url: http://www.gutenberg.org/2009/agents/4032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11574#Master-Skylark--13-A-Story-of-Shakspere-s-Time
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
